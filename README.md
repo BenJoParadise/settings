@@ -10,12 +10,12 @@ Supported format: JSON
 
 ## Usage
 ```
-go get "github.com/dtylman/settings"
+go get "github.com/BenJoParadise/settings"
 ```
 
 ```go
 import (
-	"github.com/dtylman/settings"
+	"github.com/BenJoParadise/settings"
 )
 ```
 
