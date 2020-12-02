@@ -1,6 +1,6 @@
 # settings
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/dtylman/settings)](https://goreportcard.com/report/github.com/dtylman/settings)
+[![Go Report Card](https://goreportcard.com/badge/github.com/BenJoParadise/settings)](https://goreportcard.com/report/github.com/BenJoParadise/settings)
 
 A simple `go` package for managing configuration files.
 
